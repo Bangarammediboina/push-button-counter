@@ -26,7 +26,8 @@ https://www.tinkercad.com/dashboard
 ##Arduino IDE (Integrated Development Environment) – This software was used for writing the Arduino code. The code is written in a simplified C++ language and uploaded to the Arduino board. The Arduino IDE also includes a Serial Monitor, which is used to display the counter values whenever the button is pressed.
 
 ## TOOLS USED:
-🔩 Hardware Tools (Internship / Project report lo):
+### 🔩 Hardware Tools (Internship / Project report lo):
+
 *Arduino Uno board
 
 *Push button
@@ -38,7 +39,8 @@ https://www.tinkercad.com/dashboard
 * wires
 virtual components in tinkercad circuits
 
-💻 Software Tools:
+### 💻 Software Tools:
+
 *tinkercad – used for simulation and circuit design
 tinkercad.com
 
@@ -63,5 +65,5 @@ Useful for monitoring available parking spaces in real time.
 -Lab experiments for counting repeated actions:Used in laboratories to record repeated actions or experiment cycles.
 Ensures accurate data collection and improves experiment reliability.
 
-### CONCLUSION:
+## CONCLUSION:
 The push button counter project helps in understanding the basics of Arduino programming, digital input, and counting operations. Using tinkercad and Arduino IDE, the circuit was successfully designed, simulated, and tested. This project is simple, easy to learn, and useful for real-life counting applications such as attendance systems, voting machines, and object counting systems.
