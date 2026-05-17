@@ -27,17 +27,17 @@ https://www.tinkercad.com/dashboard
 
 ## TOOLS USED:
 🔩 Hardware Tools (Internship / Project report lo):
-Arduino Uno board
-Push button
-10kΩ resistor
-Breadboard
- wires
+*Arduino Uno board
+*Push button
+*10kΩ resistor
+*Breadboard
+* wires
 virtual components in tinkercad circuits
 
 💻 Software Tools:
-� – used for simulation and circuit design
+*tinkercad – used for simulation and circuit design
 tinkercad.com
-Arduino IDE – used for writing code
+*Arduino IDE – used for writing code
 
 ## REAL LIFE APPLICATIONS:
 -Attendance counting in classrooms:Used to automatically count students present in a classroom.
