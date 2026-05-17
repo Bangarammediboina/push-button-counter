@@ -28,28 +28,38 @@ https://www.tinkercad.com/dashboard
 ## TOOLS USED:
 🔩 Hardware Tools (Internship / Project report lo):
 *Arduino Uno board
+
 *Push button
+
 *10kΩ resistor
+
 *Breadboard
+
 * wires
 virtual components in tinkercad circuits
 
 💻 Software Tools:
 *tinkercad – used for simulation and circuit design
 tinkercad.com
+
 *Arduino IDE – used for writing code
 
 ## REAL LIFE APPLICATIONS:
 -Attendance counting in classrooms:Used to automatically count students present in a classroom.
 Helps teachers maintain accurate attendance records quickly
+
 -Voting machines to count votes:Counts votes electronically during elections or competitions.
 Provides fast and accurate voting results with fewer errors.
+
 -Counting products in factories:Used in industries to count products on conveyor belts automatically.
 Improves production speed and reduces manual counting work.
+
 -Counting people entering events or rooms:Tracks the number of people entering or leaving a place.
 Helps manage crowd control and room capacity efficiently.
+
 -Parking entry/exit counting:Counts vehicles entering and leaving parking areas automatically.
 Useful for monitoring available parking spaces in real time.
+
 -Lab experiments for counting repeated actions:Used in laboratories to record repeated actions or experiment cycles.
 Ensures accurate data collection and improves experiment reliability.
 
