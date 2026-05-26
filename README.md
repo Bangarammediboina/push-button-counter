@@ -6,13 +6,13 @@
 
 *NAME*: MEDIBOINA BANGARAM
 
-*INTERN ID*: CITTS221
+*INTERN ID*: CITS221
 
-*DOMAIN*: EMBEDDED SYSTEM
+*DOMAIN*: EMBEDDED SYSTEMS
 
 *DURATION*: 6 WEEKS
 
-*MENTOR*: NEELA SANTOSH KUMAR
+*MENTOR*: NEELA SANTHOSH KUMAR
 
 ## PUSH BUTTON COUNTER DESCRIPTION:
 A push button counter is a simple Arduino-based electronic project that counts the number of times a push button is pressed. Each press increases the counter value by one and displays the updated count. This project is widely used for beginners to understand the basics of digital electronics, input/output systems, and microcontroller programming. It demonstrates how a physical input (button press) can be converted into a digital output (count value).
